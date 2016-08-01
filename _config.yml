@@ -1,0 +1,28 @@
+name: Ancient_Ponies
+favicon: null
+layout_spectrum: 0.25929590477608144
+typography_spectrum: 0.0580559007357806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6124834928195924
+  lightness: 0.8957522718701512
+  saturation: 0.5762124788016081
+  rhythmicContrast: 0.17558163311332464
+purpose: []
